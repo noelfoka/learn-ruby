@@ -4,5 +4,11 @@
 #sea_creatures = ['shark', 'cuttlefish', 'squid', 'mantis shrimp']
 #print sea_creatures
 
-nom = gets
-print("salut #{nom}")
+#nom = gets
+#print("salut #{nom}")
+
+def sayhi
+    puts "Hello Users"
+end
+
+sayhi
