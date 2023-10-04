@@ -6,3 +6,11 @@ module MovieFacts
         end
     end
 end
+
+module MovieFacts
+    class CacheDriver
+        def fetch_data
+            # Read data from cache
+        end
+    end
+end
